@@ -1,2 +1,2 @@
-https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk
-https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk/pull/1
+ - [Preview](https://your-name.github.io/your-repo/)https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk)
+ - [Pull Request](https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk/pull/1)
