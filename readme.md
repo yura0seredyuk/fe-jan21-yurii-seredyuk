@@ -1,2 +1,2 @@
- - [Preview](https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk)
- - [Pull Request](https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk/pull/1)
+ - [Preview](https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk/blob/gh-pages/index1.html)
+ - [Pull Request](https://github.com/yura0seredyuk/fe-jan21-yurii-seredyuk/tree/master)
